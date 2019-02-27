@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "raw-socket": "^1.6.4"
+  },
+  "scripts": {
+    "start": "node dos.js"
+  }
+}
